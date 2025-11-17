@@ -27,6 +27,10 @@ O objetivo é facilitar testes, estudos e demonstrações rápidas de CI/CD, inf
 - Node.js ou Python (dependendo da automação escolhida)
 
 
+## Próximos passos 
+  
+
+
 
 
 
